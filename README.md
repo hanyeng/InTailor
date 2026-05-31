@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # flutter_application_hani_v2
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# InTailor
+Hasil projek akhir DDAP 
+>>>>>>> 289296b4bd8c697eb2cb3b28e3bbf9b7c810cb84
